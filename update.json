@@ -1,2 +1,5 @@
-
-https://raw.githubusercontent.com/Ahmed00816/MyMagiskModule/refs/heads/main/update.json
+{
+  "version": "1.0",
+  "versionCode": 1,
+  "zipUrl": "https://github.com/Ahmed00816/MyMagiskModule/releases/download/v1.0/AhmedModule-v1.0.zip"
+}
