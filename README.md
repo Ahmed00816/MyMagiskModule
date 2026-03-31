@@ -11,7 +11,7 @@ Zygisk module designed to improve compatibility and provide advanced system supp
 
 ## Requirements
 
-* Android 8+
+* Android 11+
 * Magisk with Zygisk enabled
 
 ## Installation
